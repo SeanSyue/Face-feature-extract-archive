@@ -1,0 +1,10 @@
+features_output
+log
+**.caffemodel
+
+**.zip
+**.mat
+**.txt
+
+.vscode
+Pipfile.lock
